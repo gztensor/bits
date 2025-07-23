@@ -9,7 +9,7 @@
 - **Created:** 2025-07-23
 - **Updated:** 2025-07-23
 
-**Note:** This BIT in fact tables the (PR #1860)[https://github.com/opentensor/subtensor/pull/1860].
+**Note:** This BIT in fact tables the [PR #1860](https://github.com/opentensor/subtensor/pull/1860).
 
 ## 🔍 Abstract
 
