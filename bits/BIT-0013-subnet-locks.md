@@ -707,6 +707,7 @@ https://github.com/opentensor/subtensor/pull/1860
 ## 💬 Discussion
 
 - Consider support of the current owner (or any owner-to-be) by other keys, i.e. allow others to join their locks
+- The appropriate minimum lock duration: It was made 1 day (7200 blocks) in the reference implementation, but probably needs to be longer.
 
 ## © Copyright
 
